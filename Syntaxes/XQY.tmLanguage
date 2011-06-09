@@ -17,7 +17,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>(\s+|^)(typeswitch|case|default|as|element|let|return|declare|variable|import|module|namespace|xquery|version|if|in|to|then|else|try|catch|while|for|return)\b</string>
+			<string>(\s+|^)(at|typeswitch|case|default|as|element|let|return|declare|variable|import|module|namespace|xquery|version|if|in|to|then|else|try|catch|while|for|return)\b</string>
 			<key>name</key>
 			<string>keyword.control.untitled</string>
 		</dict>
